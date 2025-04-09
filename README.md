@@ -16,3 +16,6 @@ Builded with this flags
 
 cmake . -B build -DSKIP_NB_ENABLED_CHECK=ON -DENABLE_EXPERIMENTAL_PATCHES=ON
 cmake . -B build_x86 -DSKIP_NB_ENABLED_CHECK=ON -DCOMPILE_ARCH=x86 -DENABLE_EXPERIMENTAL_PATCHES=ON
+
+special thanks to 
+https://github.com/qwerty12356-wart
