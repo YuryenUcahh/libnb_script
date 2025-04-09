@@ -4,9 +4,10 @@ fixes libhoudini's performance issue for amd cpu's and includes patches for blue
 Install libhoudini from here
 https://github.com/casualsnek/waydroid_script 
 
-After that run script :)
+After that run script :) 
 
 (This libnb is not mine, I just wrote bash script(with deepseek) and changed libnb.so name to libndk_translation.so because coc and cr crashing)
+(Only work for android 11 libhoudini from waydroid_script)
 
 Libnb from here
 
