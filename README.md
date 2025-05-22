@@ -4,7 +4,9 @@ fixes libhoudini's performance issue for amd cpu's and includes patches for blue
 Only work for android 11 libhoudini from waydroid_script
 
 # For Android 13
-https://github.com/casualsnek/waydroid_script/issues/224
+There is no performance issue anymore on android 13
+
+https://github.com/casualsnek/waydroid_script
 
 # Installation
 Install libhoudini from here
